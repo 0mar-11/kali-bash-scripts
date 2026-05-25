@@ -38,3 +38,10 @@ sudo apt install gcc make
 Start your custom shell:[./myShell]
 ## 3. Cleaning
 Remove compiled files:[make clean]
+
+
+
+### 📸 Screenshots
+
+###  Commands
+<img width="531" height="732" alt="Screenshot 2026-05-25 153015" src="https://github.com/user-attachments/assets/0df74231-04ca-4492-9fde-63939915c2b9" />
