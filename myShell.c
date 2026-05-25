@@ -17,7 +17,7 @@ char *history[MAX_HIST];
 int hist_count = 0;
 volatile pid_t child_pid = 0; 
 
-// ================= HISTORY MANAGEMENT =================
+// =============== HISTORY MANAGEMENT ===============
 void add_to_history(char *line) {
     if (strlen(line) == 0) return; // #include <string.h>
     if (hist_count < MAX_HIST) {
